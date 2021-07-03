@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ierGmibGOXYPsxWxy1RpZCc9uZNZ5VFfBPJRUjLI2tfjJUWUFZ+hP6w/NkrmmPRu0bv0BvKsih2r+XG0euVzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chaud\\source\\repos\\Assignment02_SENG8040\\Assignment02_SENG8040\\Assignment02_SENG8040.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chaud\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chaud\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\chaud\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\chaud\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
