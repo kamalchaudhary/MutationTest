@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Assignment02_SENG8040
 {
-    public class TriangleSolver
+    public static class TriangleSolver
     {
-         public string Analyze(int sidea, int sideb, int sidec)
+         public static string Analyze(int sidea, int sideb, int sidec)
          {
             if ((sidea + sideb) > sidec)
             {

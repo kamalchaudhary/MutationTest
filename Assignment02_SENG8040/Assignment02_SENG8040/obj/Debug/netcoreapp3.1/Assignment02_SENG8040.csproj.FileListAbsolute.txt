@@ -18,3 +18,4 @@ C:\Users\chaud\source\repos\Assignment02_SENG8040\Assignment02_SENG8040\bin\Debu
 C:\Users\chaud\source\repos\Assignment02_SENG8040\Assignment02_SENG8040\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
 C:\Users\chaud\source\repos\Assignment02_SENG8040\Assignment02_SENG8040\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\Users\chaud\source\repos\Assignment02_SENG8040\Assignment02_SENG8040\obj\Debug\netcoreapp3.1\Assignment02_SENG8040.csproj.CopyComplete
+C:\Users\chaud\source\repos\Assignment02_SENG8040\Assignment02_SENG8040\obj\Debug\netcoreapp3.1\Assignment02_SENG8040.csprojAssemblyReference.cache
