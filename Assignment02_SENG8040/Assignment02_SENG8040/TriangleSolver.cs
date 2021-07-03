@@ -15,37 +15,48 @@ namespace Assignment02_SENG8040
                     if ((sidea + sidec) > sideb)
                     {
                         Console.WriteLine("Triangle is Valid");
+                        Console.WriteLine();
+
                         if (sidea == sideb && sideb == sidec)
                         {
                             Console.WriteLine("This is an equilateral triangle.");
+                            Console.WriteLine();
                             return "This is an equilateral triangle.";
                         }
                         else if (sidea == sideb || sidea == sidec || sideb == sidec)
                         {
                             Console.WriteLine("This is an isosceles triangle.");
+                            Console.WriteLine();
                             return "This is an isosceles triangle.";
                         }
                         else
                         {
                             Console.WriteLine("This is a scalene triangle.");
+                            Console.WriteLine();
                             return "This is a scalene triangle.";
                         }
                     }
                     else
                     {
+                        Console.WriteLine();
                         Console.WriteLine("Triangle is not valid.");
+                        Console.WriteLine();
                         return "Triangle is not valid.";
                     }
                 }
                 else
                 {
+                    Console.WriteLine();
                     Console.WriteLine("Triangle is not valid");
+                    Console.WriteLine();
                     return "Triangle is not valid.";
                 }
             }
             else
             {
+                Console.WriteLine();
                 Console.WriteLine("Triangle is not valid");
+                Console.WriteLine();
                 return "Triangle is not valid.";
             }
         }

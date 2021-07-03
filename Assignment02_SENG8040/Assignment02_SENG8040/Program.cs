@@ -7,7 +7,6 @@ namespace Assignment02_SENG8040
         static void Main(string[] args)
         {
 
-            TriangleSolver T = new TriangleSolver();
             int selection = 0;
             int One, Two, Three;
             try {
@@ -23,7 +22,8 @@ namespace Assignment02_SENG8040
                             Two = Convert.ToInt32(Console.ReadLine());
                             Console.Write("Enter third side of triangle:");
                             Three = Convert.ToInt32(Console.ReadLine());
-                            T.Analyze(One, Two, Three);
+                            Console.WriteLine();
+                            TriangleSolver.Analyze(One, Two, Three);
                             break;
                         case 2:
                             break;
