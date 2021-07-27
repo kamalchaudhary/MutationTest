@@ -96,11 +96,11 @@ namespace CalcTest
         [Test]
         public void Division_of_two_integers()
         {
-            double a = 10, b = 1;//arrange
+            double a = 10, b = 2;//arrange
             calc.SetFirstNumber(a);//arrange
             calc.SetSecondNumber(b);//arrange
             double res = calc.GetDivision(); //act
-            Assert.AreEqual(res, 10); //assert
+            Assert.AreEqual(res, 5); //assert
         }
         [Test]
         public void Division_of_two_integers_1()

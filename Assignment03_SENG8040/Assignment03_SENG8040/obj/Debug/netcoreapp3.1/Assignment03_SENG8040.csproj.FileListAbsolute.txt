@@ -11,3 +11,11 @@ C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\obj\Debu
 C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\obj\Debug\netcoreapp3.1\Assignment03_SENG8040.dll
 C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\obj\Debug\netcoreapp3.1\Assignment03_SENG8040.pdb
 C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\obj\Debug\netcoreapp3.1\Assignment03_SENG8040.genruntimeconfig.cache
+C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\obj\Debug\netcoreapp3.1\Assignment03_SENG8040.csproj.CopyComplete
+C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\chaud\source\repos\Assignment03_SENG8040\Assignment03_SENG8040\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
